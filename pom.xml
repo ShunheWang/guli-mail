@@ -10,9 +10,12 @@
     <packaging>pom</packaging>
     <modules>
         <module>gulimail-coupon</module>
-        <module>gulimail-member</module>
         <module>gulimail-order</module>
         <module>gulimail-prod</module>
         <module>gulimail-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>gulimail-common</module>
+        <module>gulimail-member</module>
     </modules>
 </project>
